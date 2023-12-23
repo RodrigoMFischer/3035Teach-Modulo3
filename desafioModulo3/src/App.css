@@ -1,0 +1,48 @@
+.bg-fit {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.custom-shadow {
+  box-shadow: 4px 4px 15px 6px rgba(0, 0, 0, 0.1);
+}
+
+.circle1 {
+  position: absolute;
+  width: 5px; 
+  height: 5px;
+  background-color: #C24914;
+  border-radius: 50%; 
+  top: 50%;
+  left: 3%;
+}
+
+.circle2 {
+  position: absolute;
+  width: 9px; 
+  height: 9px; 
+  background-color: #C24914; 
+  border-radius: 50%;
+  top: 70%;
+  left: 7%; 
+}
+.circle3 {
+  position: absolute;
+  width: 16px; 
+  height: 16px; 
+  background-color: #C24914; 
+  border-radius: 50%;
+  top: 45%;
+  left: 13%; 
+}
+
+.circle4 {
+  position: absolute;
+  width: 60px; 
+  height: 60px; 
+  background-color: #C24914; 
+  border-radius: 50%;
+  top: -35%;
+  left: 7%; 
+}

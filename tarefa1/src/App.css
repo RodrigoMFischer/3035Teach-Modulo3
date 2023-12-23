@@ -1,0 +1,11 @@
+.counter{
+  background-color: black;
+  color: white;
+  display: 'flex';
+  flex-direction: column;
+  justify-Content: 'center';
+  align-Items: 'center';
+  height: '100vh',
+
+}
+
